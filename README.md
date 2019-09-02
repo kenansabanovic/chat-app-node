@@ -2,7 +2,7 @@
 
 This is a nodejs chat app using socket.io.
 
-You can find a running version of the app at https://kenan-node-chat-app.herokuapp.com/!
+You can find a running version of the app at https://chat-app-kenan.herokuapp.com/!
 
 Libraries used:
 
